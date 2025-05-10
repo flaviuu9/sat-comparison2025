@@ -1,0 +1,76 @@
+SAT | File: uf20-02.cnf
+Resolution: timeout (too many clauses), Time: 0.0000 ms
+DP: UNSAT, Time: 0.0589 ms
+DPLL: UNSAT, Time: 0.0162 ms
+CDCL: UNSAT, Time: 0.0141 ms
+
+SAT | File: uf20-03.cnf
+Resolution: timeout (too many clauses), Time: 0.0000 ms
+DP: UNSAT, Time: 0.0610 ms
+DPLL: UNSAT, Time: 0.0160 ms
+CDCL: UNSAT, Time: 0.0141 ms
+
+SAT | File: uf20-01.cnf
+Resolution: timeout (too many clauses), Time: 0.0000 ms
+DP: UNSAT, Time: 0.0601 ms
+DPLL: UNSAT, Time: 0.0150 ms
+CDCL: UNSAT, Time: 0.0141 ms
+
+SAT | File: uf20-04.cnf
+Resolution: timeout (too many clauses), Time: 0.0000 ms
+DP: UNSAT, Time: 0.0577 ms
+DPLL: UNSAT, Time: 0.0148 ms
+CDCL: UNSAT, Time: 0.0138 ms
+
+SAT | File: uf20-05.cnf
+Resolution: timeout (too many clauses), Time: 0.0000 ms
+DP: UNSAT, Time: 0.0570 ms
+DPLL: UNSAT, Time: 0.0150 ms
+CDCL: UNSAT, Time: 0.0131 ms
+
+UNSAT | File: uuf50-01.cnf
+Resolution: timeout (too many clauses), Time: 0.0000 ms
+DP: UNSAT, Time: 0.2000 ms
+DPLL: UNSAT, Time: 0.0372 ms
+CDCL: UNSAT, Time: 0.0341 ms
+
+UNSAT | File: uuf50-02.cnf
+Resolution: timeout (too many clauses), Time: 0.0000 ms
+DP: UNSAT, Time: 0.2158 ms
+DPLL: UNSAT, Time: 0.0350 ms
+CDCL: UNSAT, Time: 0.0319 ms
+
+UNSAT | File: uuf50-03.cnf
+Resolution: timeout (too many clauses), Time: 0.0000 ms
+DP: UNSAT, Time: 0.2182 ms
+DPLL: UNSAT, Time: 0.0358 ms
+CDCL: UNSAT, Time: 0.0319 ms
+
+UNSAT | File: uuf50-04.cnf
+Resolution: timeout (too many clauses), Time: 0.0000 ms
+DP: UNSAT, Time: 0.2191 ms
+DPLL: UNSAT, Time: 0.0358 ms
+CDCL: UNSAT, Time: 0.0319 ms
+
+UNSAT | File: uuf50-05.cnf
+Resolution: timeout (too many clauses), Time: 0.0000 ms
+DP: UNSAT, Time: 0.2089 ms
+DPLL: UNSAT, Time: 0.0379 ms
+CDCL: UNSAT, Time: 0.0319 ms
+
+
+Manual SAT
+Parsed 5 clauses.
+Resolution: SAT, Time: 0.2871 ms
+DP: SAT, Time: 0.0110 ms
+DPLL: SAT, Time: 0.0160 ms
+CDCL: SAT, Time: 0.0110 ms
+
+
+Manual UNSAT
+Parsed 6 clauses.
+Resolution: UNSAT, Time: 0.0708 ms
+DP: UNSAT, Time: 0.0110 ms
+DPLL: UNSAT, Time: 0.0088 ms
+CDCL: UNSAT, Time: 0.0048 ms
+
